@@ -17,10 +17,24 @@ through the projects posted on this GitHub. :sunglasses:
   <li>Super Mario Bros NES</li>
   <ul>
     <li>Platform: Unity3d</li>
-    <li>Created: June, 2021 - Present</li>
+    <li>Created: June, 2021 - August, 2021</li>
     <li>Status: Better coding practices (OOP, Polymorphism, etc.) than Snake (low bar to meet), as well as an increase in complexity.</li>
     <li>https://github.com/Drqrd/mario2D_unity</li>
-  </ul> 
+  </ul>
+  <li> Brackey's Game Jam 2021.2 </li>
+  <ul>
+    <li>Platform: Unity3d</li>
+    <li>Created: August, 2021 - August, 2021</li>
+    <li>Status: My first collaboration with someone else. A test run on working on a team!</li>
+    <li>https://github.com/Drqrd/Brackeys-Game-Jam-2021.2</li>
+  </ul>
+  <li> Pet Trainer </li>
+  <ul>
+    <li>Platform: Unity3d</li>
+    <li>Created: August, 2021 - Present</li>
+    <li>Status: Built upon its Mario predecessor, I want to build experience in game balancing and design, implement new learned topics (state machines, noise layering, etc.), and implement code with better structure, naming conventions and comments. </li>
+    <li>https://github.com/Drqrd/pet_trainer</li>
+  </ul>
 </ol>
     &nbsp  
     &nbsp  
