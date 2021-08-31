@@ -21,6 +21,7 @@ through the projects posted on this GitHub. :sunglasses:
     <li>Status: Better coding practices (OOP, Polymorphism, etc.) than Snake (low bar to meet), as well as an increase in complexity.</li>
     <li>https://github.com/Drqrd/mario2D_unity</li>
   </ul>
+  &nbsp  
   <li> Brackey's Game Jam 2021.2 </li>
   <ul>
     <li>Platform: Unity3d</li>
@@ -28,6 +29,7 @@ through the projects posted on this GitHub. :sunglasses:
     <li>Status: My first collaboration with someone else. A test run on working on a team!</li>
     <li>https://github.com/Drqrd/Brackeys-Game-Jam-2021.2</li>
   </ul>
+  &nbsp  
   <li> Pet Trainer </li>
   <ul>
     <li>Platform: Unity3d</li>
