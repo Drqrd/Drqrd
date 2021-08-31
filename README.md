@@ -34,7 +34,7 @@ through the projects posted on this GitHub. :sunglasses:
   <ul>
     <li>Platform: Unity3d</li>
     <li>Created: August, 2021 - Present</li>
-    <li>Status: Built upon its Mario predecessor, I want to build experience in game balancing and design, implement new learned topics (state machines, noise layering, etc.), and implement code with better structure, naming conventions and comments. </li>
+    <li>Status: Built upon its Mario predecessor, I want to build experience in game balancing and design, implement new learned topics (state machines, noise layering, etc.), and write code with better structure, naming conventions and comments. </li>
     <li>https://github.com/Drqrd/pet_trainer</li>
   </ul>
 </ol>
