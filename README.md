@@ -37,6 +37,13 @@ through the projects posted on this GitHub. :sunglasses:
     <li>Status: Built upon its Mario predecessor, I want to build experience in game balancing and design, implement new learned topics (state machines, noise layering, etc.), and write code with better structure, naming conventions and comments. </li>
     <li>https://github.com/Drqrd/pet_trainer</li>
   </ul>
+  &nbsp
+  <li> Vim Jam 2: 8 Bits to Infinity </li>
+  <ul>
+    <li>Platform: Unity3d</li>
+    <li>Created: September, 2021 - September, 2021</li>
+    <li>Status: A complete project, with a team of four! The most extensive collaboration I have had, from coming up with the idea to coordinating areas in which we would work. </li>
+    <li>https://github.com/Drqrd/Vim-Jam-2-8-Bits-To-Infinity</li>
 </ol>
     &nbsp  
     &nbsp  
