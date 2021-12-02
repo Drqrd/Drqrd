@@ -6,13 +6,20 @@ through the projects posted on this GitHub. :sunglasses:
 
 <h2>Projects</h2>
 <ol>
-  <li>Snake</li>
+  <li> Planet Sim </li>
   <ul>
     <li>Platform: Unity3d</li>
-    <li>Created:  May - June, 2021</li>
-    <li>Status: Hot steaming mess regarding coding practices and structure but my first completed game.</li>
-    <li>https://github.com/Drqrd/snake_unity</li>
+    <li>Created: October, 2021 - Present</li>
+    <li>Status: General platform for development, currently working on a tectonic plate planet simulator. </li>
+    <li>https://github.com/Drqrd/grand_strategy</li>
   </ul>
+  &nbsp
+  <li> Vim Jam 2: 8 Bits to Infinity </li>
+  <ul>
+    <li>Platform: Unity3d</li>
+    <li>Created: September, 2021 - September, 2021</li>
+    <li>Status: A complete project, with a team of four! The most extensive collaboration I have had, from coming up with the idea to coordinating areas in which we would work. </li>
+    <li>https://github.com/Drqrd/Vim-Jam-2-8-Bits-To-Infinity</li>
    &nbsp  
   <li>Super Mario Bros NES</li>
   <ul>
@@ -29,21 +36,14 @@ through the projects posted on this GitHub. :sunglasses:
     <li>Status: My first collaboration with someone else. A test run on working on a team!</li>
     <li>https://github.com/Drqrd/Brackeys-Game-Jam-2021.2</li>
   </ul>
-  &nbsp  
-  <li> Pet Trainer </li>
-  <ul>
-    <li>Platform: Unity3d</li>
-    <li>Created: August, 2021 - Present</li>
-    <li>Status: Built upon its Mario predecessor, I want to build experience in game balancing and design, implement new learned topics (state machines, noise layering, etc.), and write code with better structure, naming conventions and comments. </li>
-    <li>https://github.com/Drqrd/pet_trainer</li>
-  </ul>
   &nbsp
-  <li> Vim Jam 2: 8 Bits to Infinity </li>
+  <li>Snake</li>
   <ul>
     <li>Platform: Unity3d</li>
-    <li>Created: September, 2021 - September, 2021</li>
-    <li>Status: A complete project, with a team of four! The most extensive collaboration I have had, from coming up with the idea to coordinating areas in which we would work. </li>
-    <li>https://github.com/Drqrd/Vim-Jam-2-8-Bits-To-Infinity</li>
+    <li>Created:  May - June, 2021</li>
+    <li>Status: Hot steaming mess regarding coding practices and structure but my first completed game.</li>
+    <li>https://github.com/Drqrd/snake_unity</li>
+  </ul>
 </ol>
     &nbsp  
     &nbsp  
