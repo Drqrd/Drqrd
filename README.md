@@ -48,6 +48,6 @@ through the projects posted on this GitHub. :sunglasses:
     &nbsp  
     &nbsp  
 <h2>Social Media</h2>
-<a href= "https://www.linkedin.com/in/justin-m-derrico">
+<a href= "www.linkedin.com/in/justin-k-man">
 <img src="linkedin_icon.png" alt="linkedin" width="48"/>
 </a>
